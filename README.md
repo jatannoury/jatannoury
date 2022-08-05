@@ -21,15 +21,15 @@ class WhoAmI:
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
-	def getCity():
-		return Mansourieh_Lebanon()
-	
-	def Ambitions():
-		LearnFlutter()
-		LearnAngular()
-		LearnGoLang()
-		LearnJapanese()
-		LearnGerman()
+		def getCity():
+			return Mansourieh_Lebanon()
+
+		def Ambitions():
+			LearnFlutter()
+			LearnAngular()
+			LearnGoLang()
+			LearnJapanese()
+			LearnGerman()
 	
  ```
 
