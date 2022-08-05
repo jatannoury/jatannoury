@@ -25,11 +25,10 @@ class WhoAmI:
 			return Mansourieh_Lebanon()
 
 		def Ambitions():
-			LearnFlutter()
-			LearnAngular()
-			LearnGoLang()
-			LearnJapanese()
-			LearnGerman()
+			learn("flutter")
+			learn("angular")
+			learn("GoLang")
+			learn("German")
 	
  ```
 
