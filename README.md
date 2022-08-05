@@ -22,7 +22,7 @@ class WhoAmI:
 			]
 	
 		def getCity():
-			return Mansourieh_Lebanon()
+			return "Mansourieh_Lebanon"
 
 		def Ambitions():
 			learn("flutter")
