@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! This is me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
-- 💬 Ask me anything, especially concerning MERN stacks, I'll be happy to assist you.
+- 💬 Ask me anything, especially concerning MERN stacks. I'll be happy to assist you.
 - 📫 How to reach me:  [Email](mailto:jatannoury01@gmail.com),
     <a href="https://www.linkedin.com/in/joseph-tannoury-4232b3245/" target="_blank">Linkedin</a> 
 - ⚡ Fun fact: I love debugging🤓
@@ -17,7 +17,7 @@ class WhoAmI:
 		hobbies = [
 				'Chess',
 				'Coding',
-				'Guitar Playing'
+				'Guitar Playing',
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
