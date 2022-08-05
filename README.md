@@ -83,7 +83,7 @@ class WhoAmI:
 
 ![Joseph's Github Stats](https://github-readme-stats.vercel.app/api?username=jatannoury&show_icons=true&theme=vue-dark&hide=stars,issues)
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jatannoury&layout=compact&theme=vue-dark&count_private=true" />
+<img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jatannoury&layout=compact&theme=vue-dark&count_private=true" />
 
 
 <!--
