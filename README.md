@@ -26,10 +26,10 @@ class WhoAmI:
 	
 	def Ambitions():
 		LearnFlutter()
-        LearnAngular()
-        LearnGoLang()
-        LearnJapanese()
-        LearnGerman()
+		LearnAngular()
+		LearnGoLang()
+		LearnJapanese()
+		LearnGerman()
 	
  ```
 
