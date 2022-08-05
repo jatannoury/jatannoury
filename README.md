@@ -73,7 +73,7 @@ class WhoAmI:
 <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/visual_studio-563d7c?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/> </a>
 
- ### **Version ControlE**<br>
+ ### **Version Controle**<br>
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 <br>
