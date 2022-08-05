@@ -4,6 +4,7 @@
 - 📫 How to reach me:  [Email](mailto:jatannoury01@gmail.com),
     <a href="https://www.linkedin.com/in/joseph-tannoury-4232b3245/" target="_blank">Linkedin</a> 
 - ⚡ Fun fact: I love debugging🤓
+- I am an early 🐤, yet a night 🦉( All credits given to my ☕ of coffee)
 
 <h3 align="center">I assist businesses in building stunning websites from the inside out, ones that are well-designed, functional, and sprinkled with clean code.  </h3>
 <h4 align='center'>(Dear bug, I am going to hunt you and fix you 🤗 )</h4>
