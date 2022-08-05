@@ -81,24 +81,13 @@ class WhoAmI:
 <br>
 <br>
 ## **🎯 GitHub Stats**<br>
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ 
+<div>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ![Joseph's Github Stats](https://github-readme-stats.vercel.app/api?username=jatannoury&show_icons=true&theme=vue-dark&hide=stars,issues)
 
 <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jatannoury&layout=compact&theme=vue-dark&count_private=true" />
+</div>
 
 
-<!--
-**jatannoury/jatannoury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-- 🤔 I’m looking for help with ...
-
-
-- 😄 Pronouns: ...
-
--->
