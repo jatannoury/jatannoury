@@ -8,29 +8,7 @@
 
 <h3 align="center">I assist businesses in building stunning websites from the inside out, ones that are well-designed, functional, and sprinkled with clean code.  </h3>
 <h4 align='center'>(Dear bug, I am going to hunt you and fix you 🤗 )</h4>
-## Who am I?
- ```python
-class WhoAmI:
- 	user = 'Joseph Tannoury'
-		current_work = 'Writing code'
-		hobbies = [
-				'Chess',
-				'Coding',
-				'Guitar Playing'
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Mansourieh_Lebanon()
-	
-	def Ambitions():
-		LearnFlutter()
-        LearnAngular()
-        LearnGoLang()
-        LearnJapanese()
-        LearnGerman()
 
- ```
 ## **🧰 Tech Skills**<br>
 
 ### **Programming Languages**<br>
