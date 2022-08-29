@@ -51,6 +51,7 @@ class WhoAmI:
 <a href="https://reactjs.org" target="_blank"> <img src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/> </a>
 <a href="https://reactnative.dev" target="_blank"> <img src="https://img.shields.io/badge/React_Native-61DBFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/> </a>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 <a href="https://jquery.com" target="_blank"> <img src="https://img.shields.io/badge/jQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootsrap"/> </a>
